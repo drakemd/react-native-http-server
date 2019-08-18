@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Documents\\new3\\DCAMobile\\node_modules\\react-native-http-server\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\6934c4a39feffbe28f217bb66dfa4929\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\new3\\DCAMobile\\node_modules\\react-native-http-server\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\c341bef18de473e0426b9295f2756e70\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\new3\\DCAMobile\\node_modules\\react-native-http-server\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\6934c4a39feffbe28f217bb66dfa4929\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\new3\\DCAMobile\\node_modules\\react-native-http-server\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\6934c4a39feffbe28f217bb66dfa4929\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\new3\\DCAMobile\\node_modules\\react-native-http-server\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\6934c4a39feffbe28f217bb66dfa4929\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\new3\\DCAMobile\\node_modules\\react-native-http-server\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\6934c4a39feffbe28f217bb66dfa4929\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    }
+]

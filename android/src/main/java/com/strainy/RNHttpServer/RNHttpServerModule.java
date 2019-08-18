@@ -18,7 +18,7 @@ import com.facebook.react.modules.core.DeviceEventManagerModule;
 import java.util.Map;
 import java.util.HashMap;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.util.Log;
 
 public class RNHttpServerModule extends ReactContextBaseJavaModule implements LifecycleEventListener {
